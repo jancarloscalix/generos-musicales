@@ -1,0 +1,1080 @@
+
+body#pagina-principal {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+    background-image: linear-gradient(rgb(40, 121, 228), rgb(15, 55, 184), rgb(3, 17, 61));
+
+}
+
+
+.tiuil{
+    background-image: url(https://s1.significados.com/foto/generos-musicales-og.jpg);
+    color: rgb(241, 7, 7);
+    text-align: center;
+    padding: 20px;
+    border-bottom: 4px solid #0066cc;
+    
+    
+
+  font-family: "Grenze Gotisch", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+
+#pg-principal {
+    
+    margin: 20px auto; 
+    font-size: 2em;
+    padding: 10px;
+    width: 20em;
+    text-align: center; 
+    border-radius: 54px;
+    background: linear-gradient(145deg, #000000, #000000);
+    box-shadow:  21px 21px 43px #020202,
+             -21px -21px 43px #fffcfc;
+}
+
+
+    
+
+
+#imagen-pe {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+     width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+#figtap {
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+#enlaces-p{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    background-color: #333;
+    margin: 0;
+    border-radius: 5px;
+}
+
+#enlaces-p li {
+    display: inline-block;
+    margin: 10px 15px;
+}
+
+#enlaces-p li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 5px 10px;
+    border: 1px solid #555;
+    border-radius: 5px;
+}
+
+#enlaces-p li a:hover {
+    background-color: #1e90ff;
+    color: white;
+    border-color: #0066cc;
+
+       color: #ff0000;
+  text-shadow: 
+    0 0 5px #ff0000,
+    0 0 10px #cc0000,
+    0 0 20px #990000,
+    0 0 30px #660000,
+    0 0 40px #330000,
+    0 0 60px #000000,
+    0 0 80px #000000;
+  font-weight: bold;
+  font-size: 2.5em;
+  letter-spacing: 2px;
+  font-family: 'Creepster', cursive;
+
+}
+
+
+#seccion-pa{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    
+}
+
+
+#hdos {
+    color: #1e90ff;
+    font-size: 1.8em;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #1e90ff;
+
+   color: #ffffff;
+  text-shadow: 
+    0 0 5px #ffffff,
+    0 0 10px #e0e0ff,
+    0 0 20px #c0c0ff,
+    0 0 30px #a0a0ff,
+    0 0 40px #8080ff,
+    0 0 60px #6060ff,
+    0 0 80px #4040ff;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+#htres {
+    color: #333;
+    font-size: 1.4em;
+    margin: 15px 0 10px;
+
+     color: #ffffff;
+  text-shadow: 
+    0 0 5px #ffffff,
+    0 0 10px #e0e0ff,
+    0 0 20px #c0c0ff,
+    0 0 30px #a0a0ff,
+    0 0 40px #8080ff,
+    0 0 60px #6060ff,
+    0 0 80px #4040ff;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+
+p {
+   
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+/* pagina 2 */
+body#pagina-pop {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+     background-image: url(https://cloudfront-eu-central-1.images.arcpublishing.com/prisaradiolos40/4XSAQPS5P5AGPIR7Q43KXZZTUA.jpg);
+}
+
+#mainn-header {
+    background-color: #f04545;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #000000;
+      background-image: url(https://i8.amplience.net/i/naras/RA_2022_In_Review_Pop_HeroCollage_1644x925-);
+}
+
+.titlel {
+    margin: 0;
+    font-size: 2.5em;
+    padding: 10px;
+}
+
+.main-img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #333;
+    border-radius: 15px;
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.img-caption {
+    font-style: italic;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+
+    
+}
+
+#intro, #video-section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.section-title {
+    color: #4a39e2;
+    font-size: 1.8em;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #000000;
+
+      color: #941515;
+  text-shadow: 
+    0 0 5px #ff4d4d,
+    0 0 10px #ff1a1a,
+    0 0 20px #e60000,
+    0 0 30px #cc0000,
+    0 0 40px #990000,
+    0 0 60px #660000,
+    0 0 80px #330000;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.info-pop {
+    margin: 15px 0;
+}
+
+.article-text {
+    line-height: 1.6;
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+.pop-video {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+#main-nav {
+    text-align: center;
+    margin: 20px;
+}
+
+.nav-link {
+    color: #f32525;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 5px 10px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    
+}
+
+.nav-link:hover {
+    background-color: #69515d;
+    color: white;
+}
+
+
+
+
+
+
+
+
+/* pagina 3 */
+/* Estilos específicos para la página de jazz */
+body#pagina-jazz {
+    font-family: "Trebuchet MS", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6f0fa; 
+    color: #1c2526;
+    
+  background-image: url(https://cdn.mos.cms.futurecdn.net/yui8eKCUcEN76UkSBV273Z.png);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+
+}
+
+#mains-header {
+    background-image: url(https://m.media-amazon.com/images/S/pv-target-images/9f6922b1d34bbecebc225098f50d8a8f5f744496aaeed573e96071a77b33108a._SX1080_FMjpg_.jpg); 
+    color: #ffd700; 
+    text-align: center;
+    padding: 25px;
+    border-bottom: 4px solid #ffd700;
+    
+  
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+
+
+}
+
+.title {
+    margin: 0;
+    font-size: 2.5em;
+    padding: 10px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.mainf-img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ffd700;
+    border-radius: 12px;
+    width: 300px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.pentagrama{
+    font-style: italic;
+    color: #ffd700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#intro, #video-section {
+    margin: 25px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 2px solid #1a3c61;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.section-titlee {
+    color: #1a3c61;
+    font-size: 1.9em;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 3px double #ffd700; 
+
+      color: #00ff99;
+  text-shadow: 
+    0 0 5px #00ff99,
+    0 0 10px #00ff99,
+    0 0 20px #00cc66,
+    0 0 30px #00994d,
+    0 0 40px #006633,
+    0 0 60px #00331a,
+    0 0 80px #001a0d;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.info-jazz {
+    margin: 15px 0;
+}
+
+.articleeeeeeeeee-text {
+    line-height: 1.7;
+    font-size: 1.2em;
+    margin: 12px 0;
+}
+
+.jazz-video {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+}
+
+#main-nav-jazz {
+    text-align: center;
+    margin: 20px;
+}
+
+.nav-link-jazz{
+    color: #1a3c61;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 7px 15px;
+    border: 2px solid #ffd700;
+    border-radius: 7px;
+}
+
+.nav-link-jazz:hover {
+    background-color: #ffd700;
+    color: #1a3c61;
+}
+
+
+
+
+
+
+/* pagina 4 /*
+/* Estilos específicos para la página de rock */
+body {
+    font-family: "Helvetica", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c; 
+    color: #e0e0e0;
+}
+
+#rock-header {
+    background-image: url(https://images.vexels.com/content/145816/preview/rock-music-sign-logo-29bc20.png);
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 20px;
+    border-bottom: 5px dotted #ffca28; 
+   
+   
+}
+
+.rock-title {
+    margin: 0;
+    font-size: 2.6em;
+    padding: 10px;
+    text-transform: uppercase; 
+}
+
+.rock-img {
+    display: block;
+    margin: 15px auto;
+    border: 4px solid #ffca28; 
+    border-radius: 10px; 
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.rock-caption {
+    font-style: italic;
+    color: #ffca28;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+#rock-intro, #rock-video-section {
+    margin: 30px 15px;
+    padding: 25px;
+    background-color: #2e2e2e; 
+    border: 3px solid #b71c1c;
+    border-radius: 8px;
+}
+
+.rock-section-title {
+    color: #ffca28; 
+    font-size: 1.7em;
+    text-align: left; 
+    margin-top: 0;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #b71c1c;
+
+     color: #d400ff;
+  text-shadow: 
+    0 0 5px #d400ff,
+    0 0 10px #a000cc,
+    0 0 20px #8000aa,
+    0 0 30px #660088,
+    0 0 40px #4d0066,
+    0 0 60px #330044,
+    0 0 80px #1a0022;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.rock-info {
+    margin: 10px 0;
+}
+
+.rock-text {
+    line-height: 1.8;
+    font-size: 1.15em;
+    margin: 15px 0;
+}
+
+.rock-video {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ffca28;
+    border-radius: 6px;
+}
+
+#rock-nav {
+    text-align: center;
+    margin: 25px;
+}
+
+.rock-nav-link {
+    color: #ffca28;
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 10px 20px;
+    border: 3px solid #ffca28;
+    border-radius: 10px;
+    display: inline-block; 
+}
+
+.rock-nav-link:hover {
+    background-color: #ffca28;
+    color: #b71c1c;
+}
+
+
+
+
+/* pg 5 /*
+/* Estilos específicos para la página de reggaetón */
+body#regueton {
+    font-family: "Arial Black", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://static01.nyt.com/images/2024/06/13/espanol/cultura/regueton-bad-bunny-puerto-rico-1718302265313/regueton-bad-bunny-puerto-rico-1718302265313-videoSixteenByNineJumbo1600.jpg); 
+    color: #212121;
+}
+
+#reggaeton-header {
+      background-image: url(https://www.premiosicono.com/wp-content/uploads/2021/07/regueton-1024x576.jpg); 
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 15px;
+    border-bottom: 6px double #ff6f00; 
+}
+
+.reggaeton-title {
+    margin: 0;
+    font-size: 2.7em;
+    padding: 12px;
+    letter-spacing: 2px; 
+}
+
+.reggaeton-img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ff6f00;
+    border-radius: 20px;
+    
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.reggaeton-caption {
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+#reggaeton-intro, #reggaeton-video-section {
+    margin: 20px 10px;
+    padding: 20px;
+    background-color: #e23e3e;
+    border: 2px dashed #d81b60; 
+    border-radius: 15px;
+}
+
+.reggaeton-section-title {
+    color: #d81b60;
+    font-size: 1.8em;
+    text-align: right; 
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ff6f00;
+
+    color: #00ffff;
+  text-shadow: 
+    0 0 5px #00ffff,
+    0 0 10px #00e5e5,
+    0 0 20px #00cccc,
+    0 0 30px #00b2b2,
+    0 0 40px #009999,
+    0 0 60px #007f7f,
+    0 0 80px #006666;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.reggaeton-info {
+    margin: 15px 0;
+}
+
+.reggaeton-text {
+    line-height: 1.9;
+    font-size: 1.1em;
+    margin: 10px 0;
+}
+
+.reggaeton-video {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ff6f00;
+    border-radius: 15px;
+}
+
+#reggaeton-nav {
+    text-align: center;
+    margin: 20px;
+}
+
+.reggaeton-nav-link {
+    color: #d81b60;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 8px 18px;
+    border: 2px dashed #ff6f00; 
+    border-radius: 12px;
+    display: inline-block;
+}
+
+.reggaeton-nav-link:hover {
+    background-color: #ff6f00;
+    color: #ffffff;
+}
+
+.reggaeton-flotante {
+    position: fixed;
+    top: 20px; 
+    left: 20px;
+    background-color: #ff6f00; 
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 30px;
+    font-size: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+
+.reggaeton-flotante:hover {
+    background-color: #d81b60;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+/* pg 6/*
+/* Estilos específicos para la página de hip hop */
+body#hip-hop {
+    font-family: "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://www.visittheusa.mx/sites/default/files/styles/hero_l/public/images/hero_media_image/2018-03/e23f197d1fc1118afa9ddfcd21c3d85a.jpeg?itok=muZE1iNo);
+    color: #212121;
+}
+
+#hiphop-header {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/046/976/769/non_2x/hiphop-illustration-cool-hiphop-tshirt-or-wall-art-design-in-graffiti-style-vector.jpg);
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 15px;
+    border-bottom: 5px solid #ff5722; 
+}
+
+.hiphop-title {
+    margin: 0;
+    font-size: 2.6em;
+    padding: 10px;
+    letter-spacing: 1px; 
+}
+
+.hiphop-img {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ff5722;
+    border-radius: 5px; 
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.hiphop-caption {
+    font-style: italic;
+    color: #ff5722;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+#hiphop-intro, #hiphop-video-section {
+    margin: 20px 10px;
+    padding: 20px;
+    background-color: #aa7126;
+    border: 2px solid #263238;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); 
+}
+
+.hiphop-section-title {
+    color: #020000;
+    font-size: 1.8em;
+    text-align: center; 
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px dashed #ff5722; 
+
+    color: #ffff00;
+  text-shadow: 
+    0 0 5px #ffff00,
+    0 0 10px #ffee00,
+    0 0 20px #ffdd00,
+    0 0 30px #ffcc00,
+    0 0 40px #ffaa00,
+    0 0 60px #996600,
+    0 0 80px #664400;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.hiphop-info {
+    margin: 15px 0;
+}
+
+.hiphop-text {
+    line-height: 1.7;
+    font-size: 1.15em;
+    margin: 12px 0;
+}
+
+.hiphop-video {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ff5722;
+    border-radius: 6px;
+}
+
+#hiphop-nav {
+    text-align: center;
+    margin: 20px;
+}
+
+.hiphop-nav-link {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 8px 15px;
+    border: 2px solid #ff5722;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.hiphop-nav-link:hover {
+    background-color: #ff5722;
+    color: #ffffff;
+}
+
+.hiphop-flotante {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    background-color: #ff5722; 
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+}
+
+.hiphop-flotante:hover {
+    background-color: #263238;
+    color: #ff5722;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
+
+
+/* pg7 salsa*/
+body#salsa{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    margin: 0;
+    padding: 0;
+    
+    color: #1a1a1a;
+}
+
+#salsa-header {
+    background-image: url(https://www.javeriana.edu.co/pesquisa/wp-content/uploads/2019/02/nuestra-historia-se-lee-al-ritmo-de-la-salsa-portada.jpg);
+    color: #ffffff;
+    text-align: center;
+    padding: 25px 15px;
+    border-bottom: 6px double #ffd54f;
+}
+
+.salsa-title {
+    margin: 0;
+    font-size: 2.7em;
+    padding: 12px;
+    text-shadow: 1px 1px 3px #000; 
+}
+
+.salsa-img {
+    display: block;
+    margin: 20px auto;
+    border: 4px solid #ffd54f;
+    border-radius: 15px; 
+
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.salsa-caption {
+    font-style: italic;
+    color: #ffd54f;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+#salsa-intro, #salsa-video-section {
+    margin: 25px 15px;
+    padding: 20px;
+    background-color: #ff1a1a;
+    border: 2px dotted #b61827; 
+    border-radius: 12px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1); 
+}
+
+.salsa-section-title {
+    color: #b61827;
+    font-size: 1.8em;
+    text-align: right; 
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ffd54f;
+
+     color: #3399ff;
+  text-shadow: 
+    0 0 5px #3399ff,
+    0 0 10px #0077ff,
+    0 0 20px #0055cc,
+    0 0 30px #003399,
+    0 0 40px #001a66,
+    0 0 60px #000d33,
+    0 0 80px #000a1a;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.salsa-info {
+    margin: 15px 0;
+}
+
+.salsa-text {
+    line-height: 1.8;
+    font-size: 1.15em;
+    margin: 12px 0;
+}
+
+.salsa-video {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ffd54f;
+    border-radius: 10px;
+}
+
+#salsa-nav {
+    text-align: center;
+    margin: 20px;
+}
+
+.salsa-nav-link {
+    color: #b61827;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 10px 20px;
+    border: 2px solid #ffd54f;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.salsa-nav-link:hover {
+    background-color: #ffd54f;
+    color: #b61827;
+}
+
+.salsa-flotante {
+    position: fixed;
+    bottom: 20px; 
+    left: 20px;
+    background-color: #ffd54f; 
+    color: #b61827;
+    text-decoration: none;
+    padding: 12px 18px;
+    border-radius: 25px; 
+    font-size: 1em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+}
+
+.salsa-flotante:hover {
+    background-color: #b61827;
+    color: #ffd54f;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+/* pg 8 flamenco*/
+body#flamenco{
+    font-family: "Georgia", serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://imagenes.elpais.com/resizer/v2/ARGEZI6MZBERPKRG3U6PYVL7PQ.jpg?auth=15fca3977fc8249dcf8a3cf2ca64a6c3251f5db0f39ec3218328678866cedf4f&width=414);
+    color: #2c1a1a;
+}
+
+#flamenco-header {
+    background-image: url(https://www.shutterstock.com/image-illustration/background-traditional-spanish-gypsy-music-600nw-2272701901.jpg);
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 10px;
+    border-bottom: 4px dashed #f5deb3; 
+}
+
+.flamenco-title {
+    margin: 0;
+    font-size: 2.6em;
+    padding: 10px;
+    text-shadow: 2px 2px 3px #000; 
+}
+
+.flamenco-img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #f5deb3;
+    border-radius: 10px; 
+    width: 400px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.flamenco-caption {
+    font-style: italic;
+    color: #f5deb3;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+}
+
+#flamenco-intro, #flamenco-video-section {
+    margin: 20px 15px;
+    padding: 25px;
+    background-color: #533232;
+    border: 2px solid #8b0000;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
+}
+
+.flamenco-section-title {
+    color: #8b0000;
+    font-size: 1.8em;
+    text-align: left; 
+    margin-top: 0;
+    padding-bottom: 10px;
+    border-bottom: 3px double #f5deb3; 
+
+     color: #ff6600;
+  text-shadow: 
+    0 0 5px #ff6600,
+    0 0 10px #ff3300,
+    0 0 20px #ff0000,
+    0 0 30px #cc0000,
+    0 0 40px #990000,
+    0 0 60px #660000,
+    0 0 80px #330000;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.flamenco-info {
+    margin: 15px 0;
+}
+
+.flamenco-text {
+    font-size: 1.15em;
+    margin: 12px 0;
+}
+
+.flamenco-video {
+    display: block;
+    margin: 50px auto;
+    border: 3px solid #000000;
+    border-radius: 8px;
+    border-width: 10px;
+    background-color: #000;
+}
+
+#flamenco-nav {
+    text-align: center;
+    margin: 25px;
+}
+
+.flamenco-nav-link {
+    color: #ff1010;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 8px 18px;
+    border: 2px dashed #d4a141; 
+    border-radius: 12px;
+    display: inline-block;
+}
+
+.flamenco-nav-link:hover {
+    background-color: #8d6f37;
+    color: #ff0202;
+}
+
+.flamenco-flotante {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px;
+    background-color: #e9a934; 
+    color: #ff0909;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 8px; 
+    font-size: 1em;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    text-transform: uppercase;
+}
+
+.flamenco-flotante:hover {
+    background-color: #8b0000;
+    color: #ff0000;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
